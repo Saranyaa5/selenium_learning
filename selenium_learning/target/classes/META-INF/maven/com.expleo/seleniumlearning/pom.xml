@@ -120,6 +120,7 @@
             <configuration>
                 <mainClass>com.expleo.seleniumlearning.Demoqa</mainClass>
                 <mainClass>com.expleo.seleniumlearning.HeadLessDuckDuckgo</mainClass>
+                <mainClass>com.expleo.seleniumlearning.UsingCssSelector</mainClass>
             </configuration>
         </plugin>
     </plugins>
