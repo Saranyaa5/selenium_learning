@@ -119,6 +119,7 @@
             </executions>
             <configuration>
                 <mainClass>com.expleo.seleniumlearning.Demoqa</mainClass>
+                <mainClass>com.expleo.selenium.HeadLessDuckDuckgo</mainClass>
             </configuration>
         </plugin>
     </plugins>
