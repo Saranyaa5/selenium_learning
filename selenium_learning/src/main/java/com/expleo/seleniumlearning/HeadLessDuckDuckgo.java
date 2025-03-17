@@ -29,7 +29,7 @@ public class HeadLessDuckDuckgo {
 		 System.out.println("seacrh is successful");
 	 }
 	 else {
-		 System.out.println("seacrh is successful");
+		 System.out.println("seacrh is successful.");
 	 }
 	 
 	 driver.quit();
