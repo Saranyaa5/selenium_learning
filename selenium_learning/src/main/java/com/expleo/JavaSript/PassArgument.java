@@ -4,13 +4,14 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
 public class PassArgument {
     public static void main(String[] args) {
         
         // Launch Edge browser
-        WebDriver driver = new EdgeDriver();
+        WebDriver driver = new ChromeDriver();
 
         // Open the website
         driver.get("https://omayo.blogspot.com/");
