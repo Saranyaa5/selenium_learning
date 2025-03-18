@@ -1,5 +1,10 @@
+com\expleo\seleniumlearning\NavigateCommands.class
 com\selenium_task\package-info.class
 com\expleo\seleniumlearning\HeadLessDuckDuckgo.class
 com\expleo\seleniumlearning\UsingCssSelector.class
 com\expleo\seleniumlearning\Demoqa.class
+com\expleo\seleniumlearning\NewWindow.class
+com\expleo\seleniumlearning\GoogleAutoSuggestions.class
+com\expleo\seleniumlearning\NewTab.class
 com\expleo\seleniumlearning\App.class
+com\expleo\seleniumlearning\AutoSuggestion.class
