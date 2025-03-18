@@ -121,6 +121,13 @@
                 <mainClass>com.expleo.seleniumlearning.Demoqa</mainClass>
                 <mainClass>com.expleo.seleniumlearning.HeadLessDuckDuckgo</mainClass>
                 <mainClass>com.expleo.seleniumlearning.UsingCssSelector</mainClass>
+                <mainClass>com.expleo.seleniumlearning.AutoSuggestion</mainClass>
+                <mainClass>com.expleo.seleniumlearning.GoogleAutoSuggestions</mainClass>
+                <mainClass>com.expleo.seleniumlearning.NavigateCommands</mainClass>
+                <mainClass>com.expleo.seleniumlearning.NewTab</mainClass>
+                <mainClass>com.expleo.seleniumlearning.NewWindow</mainClass>
+                
+                
             </configuration>
         </plugin>
     </plugins>
