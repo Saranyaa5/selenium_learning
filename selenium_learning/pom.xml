@@ -126,7 +126,7 @@
                 <mainClass>com.expleo.seleniumlearning.NavigateCommands</mainClass>
                 <mainClass>com.expleo.seleniumlearning.NewTab</mainClass>
                 <mainClass>com.expleo.seleniumlearning.NewWindow</mainClass>
-                
+                <mainClass>com.expleo.JavaSript</mainClass>
                 
             </configuration>
         </plugin>
