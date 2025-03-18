@@ -126,7 +126,16 @@
                 <mainClass>com.expleo.seleniumlearning.NavigateCommands</mainClass>
                 <mainClass>com.expleo.seleniumlearning.NewTab</mainClass>
                 <mainClass>com.expleo.seleniumlearning.NewWindow</mainClass>
-                <mainClass>com.expleo.JavaSript</mainClass>
+                <mainClass>com.expleo.JavaSript.AutomateAccount</mainClass>
+                <mainClass>com.expleo.JavaSript.CalenderUsingJavaScript</mainClass>
+                <mainClass>com.expleo.JavaSript.FlashingElement</mainClass>
+                <mainClass>com.expleo.JavaSript.FunctionForSendKeys</mainClass>
+                <mainClass>com.expleo.JavaSript.GoogleInput</mainClass>
+                <mainClass>com.expleo.JavaSript.JavaScriptExecutor</mainClass>
+                <mainClass>com.expleo.JavaSript.MethodCreationForWebElements</mainClass>
+                <mainClass>com.expleo.JavaSript.PassArgument</mainClass>
+                
+                <mainClass>com.expleo.JavaSript.Scrolling</mainClass>
                 
             </configuration>
         </plugin>
