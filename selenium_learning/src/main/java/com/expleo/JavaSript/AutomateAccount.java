@@ -31,7 +31,6 @@ public static void main(String [] args) {
 	SendKeysFunction(driver, password,"Saran123");
 	SendKeysFunction(driver, confirm,"Saran123");
 	
-	
 	WebElement check=driver.findElement(By.xpath("//input[@name=\"agree\"]"));
 	
 }
